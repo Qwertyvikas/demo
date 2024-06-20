@@ -1,3 +1,3 @@
-# demo
+cd c# demo
 this is 1st repo
-ok
+ok(no)
